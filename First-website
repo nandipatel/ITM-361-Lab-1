@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ITMD-361 Internet Technologies and Web Design</title>
+</head>
+<h1> Nandi's First Website </h1>
+<body>
+  <p> Hello, my name is Nandi Patel. It's my first year at IIT and my major is ITM.</p>
+  <p> I was born in Canada, then moved to Houston, after a couple of years.</p>
+  <p> I like to work on jigsaw puzzles and read. My favorite color is blue. </p>
+  <p> I never really knew what I wanted to do in life, but I was always fascinated by technology. Which is why I chose this major.</p>
+</body>
+</html>
